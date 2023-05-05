@@ -1,0 +1,29 @@
+ROLL NUMBER: 2016799
+NAME: JAYESH SINGH
+COURSE: CSE
+SEMESTER: 6
+EMAIL: jayeshsingh0803@gmail.com
+CONTACT NUMBER: 7651985787
+end
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+ROLL NUMBER: 2017525
+NAME: PRAKRITI RAWAT
+COURSE: CSE(ML/AI)
+SEMESTER: 6
+EMAIL: rawprakriti@gmail.com
+CONTACT NUMBER: 9999999999
+end
+------------------------------------------------------------------------------
+
+ROLL NUMBER: 2017889
+NAME: PARAMJEET 
+COURSE: CSE
+SEMESTER: 6
+EMAIL: paramjeet0729@gmail.com
+CONTACT NUMBER: 9898998989
+end
+------------------------------------------------------------------------------
+
